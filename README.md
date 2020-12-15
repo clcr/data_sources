@@ -2,8 +2,7 @@
 A repository for GIS data sources; please feel free to add to these using the edit button.
 
 ## Cloud-optimised geotifs
-Can be used with gdal /vsicurl/
-
+Can be used with gdal /vsicurl/\
 See github.com/clcr/s2_subset_download
 
 ### Sentinel 2 L2A
