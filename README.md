@@ -39,3 +39,10 @@ https://earthdata.nasa.gov/collaborate/cloud-optimized-geotiffs
 #### Example URL:
 https://landsat-pds.s3.amazonaws.com/c1/L8/202/025/LC08_L1TP_202025_20200508_20200508_01_RT/LC08_L1TP_202025_20200508_20200508_01_RT_B2.TIF​
 	
+
+## Potential COGs
+Data providers that advertise the availability of COG data, but we haven't found the access protocol yet.
+
+- Planet
+- The CEDA archive
+- OpenDroneMap
