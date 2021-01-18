@@ -18,6 +18,23 @@ Single-band\
 Native resolution\
 Split by granule and month
 
+### Sentinel 1 L1C
+
+#### Spec:
+https://registry.opendata.aws/sentinel-1/
+
+#### Example URL:
+/vsis3/sentinel-s1-l1c/GRD/2018/1/11/EW/DH/S1A_EW_GRDH_1SDH_20180111T110409_20180111T110513_020106_02247C_FBAB/measurement/ew-hh.tiff
+
+#### Notes:
+COSTS SOME MONEY; AWS account needed\
+Note /vsis3/ prefix instead of /vsicurl/\
+Need to setup AWS account and `export AWS_REQUEST_PAYER=requester` to consent to payment
+Single band GRD\
+State of images unclear- needs investigation\
+Geolocation surprisingly good\
+Need AWS account 
+
 ### MODIS veg indicies (and friends)
 
 #### Spec:
