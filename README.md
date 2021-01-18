@@ -29,7 +29,7 @@ https://registry.opendata.aws/sentinel-1/
 #### Notes:
 COSTS SOME MONEY; AWS account needed\
 Note /vsis3/ prefix instead of /vsicurl/\
-Need to setup AWS account and `export AWS_REQUEST_PAYER=requester` to consent to payment
+Need to setup AWS account and `export AWS_REQUEST_PAYER=requester` to consent to payment\
 Single band GRD\
 State of images unclear- needs investigation\
 Geolocation surprisingly good\
