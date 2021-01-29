@@ -63,3 +63,8 @@ Data providers that advertise the availability of COG data, but we haven't found
 - Planet
 - The CEDA archive
 - OpenDroneMap
+
+## Global surface water map 
+https://global-surface-water.appspot.com/download
+
+See site and map for download URLs; individual granules can be obtained using wget or Python's urllib or requests library.
